@@ -12,7 +12,7 @@
         "pin": "Fäst",
         "unpin": "Lossa",
         "block": "Blockera",
-        "blockTitle": "Blockera \"{{title}}\"?",
+        "blockTitle": "Blockera \"{title}\"?",
         "blockConfirm": "Den här webbplatsen tas bort från dina toppwebbplatser och kommer inte att föreslås igen. Du kan hantera blockerade webbplatser i inställningar.",
         "invalidUrl": "Ogiltig URL"
     },

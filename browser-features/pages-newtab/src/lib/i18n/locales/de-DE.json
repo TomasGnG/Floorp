@@ -12,7 +12,7 @@
         "pin": "Anheften",
         "unpin": "Ablösen",
         "block": "Blockieren",
-        "blockTitle": "\"{{title}}\" blockieren?",
+        "blockTitle": "\"{title}\" blockieren?",
         "blockConfirm": "Diese Webseite wird von Ihren Verknüpfungen entfernt und wird nicht mehr vorgeschlagen. Sie können blockierte Webseiten in den Einstellungen verwalten.",
         "invalidUrl": "Ungültige URL"
     },

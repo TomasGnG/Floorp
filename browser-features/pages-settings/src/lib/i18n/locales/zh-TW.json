@@ -38,7 +38,7 @@
             "resultsFor": "搜尋 {{query}} 的結果",
             "searchResultsDescription": "搜尋 \"{{query}}\"的結果。只搜尋了 {{productName}} 的設定；並不包括 Firefox 的設定。",
             "noResults": "找不到結果",
-            "open": "開啟 \"{{title}}\"",
+            "open": "開啟 \"{title}\"",
             "matchedText": "匹配文字",
             "results": "搜尋結果"
         }
@@ -276,7 +276,7 @@
         "title": "搜尋設定",
         "resultsFor": "搜尋 {{query}} 的結果",
         "noResults": "找不到結果",
-        "open": "開啟 \"{{title}}\"",
+        "open": "開啟 \"{title}\"",
         "matchedText": "匹配文字",
         "results": "搜尋結果",
         "searchResultsDescription": "搜尋 \"{{query}}\"的結果。只搜尋了 {{productName}} 的設定；並不包括 Firefox 的設定。"

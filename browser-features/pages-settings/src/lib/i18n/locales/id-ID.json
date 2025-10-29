@@ -38,7 +38,7 @@
             "resultsFor": "Hasil pencarian untuk \"{{query}}\"",
             "searchResultsDescription": "Hasil pencarian untuk \"{{query}}\". Hanya pengaturan {{productName}} yang dicari; pengaturan Firefox tidak disertakan.",
             "noResults": "Hasil tidak ditemukan",
-            "open": "Buka \"{{title}}\"",
+            "open": "Buka \"{title}\"",
             "matchedText": "Teks yang Cocok",
             "results": "Hasil Pencarian"
         }
@@ -276,7 +276,7 @@
         "title": "Telusuri Pengaturan",
         "resultsFor": "Hasil penelusuran untuk \"{{query}}\"",
         "noResults": "Hasil tidak ditemukan",
-        "open": "Buka \"{{title}}\"",
+        "open": "Buka \"{title}\"",
         "matchedText": "Teks yang Cocok",
         "results": "Hasil Penelusuran",
         "searchResultsDescription": "Hasil penelusuran untuk \"{{query}}\". Hanya pengaturan {{productName}} yang dicari; pengaturan Firefox tidak disertakan."

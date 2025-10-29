@@ -38,7 +38,7 @@
             "resultsFor": "Résultats de la recherche pour \"{{query}}\"",
             "searchResultsDescription": "Résultats de la recherche pour \"{{query}}\". Seuls les paramètres de {{productName}} sont recherchés, les paramètres de Firefox ne sont pas inclus.",
             "noResults": "Aucun résultat",
-            "open": "Ouvrir \"{{title}}\"",
+            "open": "Ouvrir \"{title}\"",
             "matchedText": "Texte correspondant",
             "results": "Résultats de la recherche"
         }
@@ -276,7 +276,7 @@
         "title": "Paramètres de recherche",
         "resultsFor": "Résultats de la recherche pour \"{{query}}\"",
         "noResults": "Aucun résultat",
-        "open": "Ouvrir \"{{title}}\"",
+        "open": "Ouvrir \"{title}\"",
         "matchedText": "Texte correspondant",
         "results": "Résultats de la recherche",
         "searchResultsDescription": "Résultats de la recherche pour \"{{query}}\". Seuls les paramètres de {{productName}} sont recherchés, les paramètres de Firefox ne sont pas inclus."

@@ -12,7 +12,7 @@
         "pin": "Vastzetten",
         "unpin": "Losmaken",
         "block": "Blokkeren",
-        "blockTitle": "Blokkeer \"{{title}}\"?",
+        "blockTitle": "Blokkeer \"{title}\"?",
         "blockConfirm": "Deze site zal verwijderd worden van uw topsites en zal niet opnieuw worden voorgesteld. U kunt geblokkeerde sites beheren in instellingen.",
         "invalidUrl": "Ongeldige URL"
     },

@@ -12,7 +12,7 @@
         "pin": "釘選",
         "unpin": "取消釘選",
         "block": "阻擋",
-        "blockTitle": "封鎖 \"{{title}}\"？",
+        "blockTitle": "封鎖 \"{title}\"？",
         "blockConfirm": "此網站將從你的 Top Sites 中移除，並且不會再被建議。你可以在設定中管理封鎖的網站。",
         "invalidUrl": "網址無效"
     },

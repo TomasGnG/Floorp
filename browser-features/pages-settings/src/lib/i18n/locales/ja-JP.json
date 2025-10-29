@@ -38,7 +38,7 @@
             "resultsFor": "[{{query}}] の検索結果",
             "searchResultsDescription": "[{{query}}] の検索結果です。 {{productName}} の設定のみ表示されます。 Firefox の設定は含まれません。",
             "noResults": "何も見つかりませんでした",
-            "open": "[{{title}}] を開く",
+            "open": "[{title}] を開く",
             "matchedText": "一致したテキスト",
             "results": "検索結果"
         }
@@ -276,7 +276,7 @@
         "title": "設定を検索",
         "resultsFor": "[{{query}}] の検索結果",
         "noResults": "何も見つかりませんでした",
-        "open": "[{{title}}] を開く",
+        "open": "[{title}] を開く",
         "matchedText": "一致したテキスト",
         "results": "検索結果",
         "searchResultsDescription": "[{{query}}] の検索結果です。 {{productName}} の設定のみ表示されます。 Firefox の設定は含まれません。"

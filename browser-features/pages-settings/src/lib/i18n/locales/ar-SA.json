@@ -38,7 +38,7 @@
             "resultsFor": "Search results for \"{{query}}\"",
             "searchResultsDescription": "Search results for \"{{query}}\". Only {{productName}} settings are searched; Firefox settings are not included.",
             "noResults": "No results found",
-            "open": "Open \"{{title}}\"",
+            "open": "Open \"{title}\"",
             "matchedText": "Matched Text",
             "results": "Search Results"
         }
@@ -276,7 +276,7 @@
         "title": "Search Settings",
         "resultsFor": "Search results for \"{{query}}\"",
         "noResults": "No results found",
-        "open": "Open \"{{title}}\"",
+        "open": "Open \"{title}\"",
         "matchedText": "Matched Text",
         "results": "Search Results",
         "searchResultsDescription": "Search results for \"{{query}}\". Only {{productName}} settings are searched; Firefox settings are not included."

@@ -38,7 +38,7 @@
             "resultsFor": "Результати пошуку \"{{query}}\"",
             "searchResultsDescription": "Search results for \"{{query}}\". Only {{productName}} settings are searched; Firefox settings are not included.",
             "noResults": "Нічого не знайдено",
-            "open": "Відкрийте \"{{title}}\"",
+            "open": "Відкрийте \"{title}\"",
             "matchedText": "Matched Text",
             "results": "Результати пошуку"
         }
@@ -276,7 +276,7 @@
         "title": "Налаштування пошуку",
         "resultsFor": "Результати пошуку \"{{query}}\"",
         "noResults": "Нічого не знайдено",
-        "open": "Відкрийте \"{{title}}\"",
+        "open": "Відкрийте \"{title}\"",
         "matchedText": "Matched Text",
         "results": "Результати пошуку",
         "searchResultsDescription": "Search results for \"{{query}}\". Only {{productName}} settings are searched; Firefox settings are not included."

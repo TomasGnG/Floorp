@@ -38,7 +38,7 @@
             "resultsFor": "“{{query}}” 搜索结果",
             "searchResultsDescription": "“{{query}}” 搜索结果，仅搜索 {{productName}} 设置；不包括 Firefox 设置。",
             "noResults": "未找到结果",
-            "open": "打开 “{{title}}”",
+            "open": "打开 “{title}”",
             "matchedText": "匹配文本",
             "results": "搜索结果"
         }
@@ -276,7 +276,7 @@
         "title": "检索设置",
         "resultsFor": "搜索 \"{{query}}\" 的结果",
         "noResults": "未找到结果",
-        "open": "打开 \"{{title}}\"",
+        "open": "打开 \"{title}\"",
         "matchedText": "匹配文本",
         "results": "搜索结果",
         "searchResultsDescription": "搜索结果为 \"{{query}}\"。仅搜索 {{productName}} 设置；不包括 Firefox 设置。"

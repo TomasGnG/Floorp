@@ -38,7 +38,7 @@
             "resultsFor": "Sökresultat för \"{{query}}\"",
             "searchResultsDescription": "Sökresultat för \"{{query}}\". Endast {{productName}} inställningar söks; Firefox inställningar ingår inte.",
             "noResults": "Inga resultat hittades",
-            "open": "Öppna \"{{title}}\"",
+            "open": "Öppna \"{title}\"",
             "matchedText": "Matchad text",
             "results": "Sökresultat"
         }
@@ -276,7 +276,7 @@
         "title": "Sökinställningar",
         "resultsFor": "Sökresultat för \"{{query}}\"",
         "noResults": "Inga resultat hittades",
-        "open": "Öppna \"{{title}}\"",
+        "open": "Öppna \"{title}\"",
         "matchedText": "Matchad text",
         "results": "Sökresultat",
         "searchResultsDescription": "Sökresultat för \"{{query}}\". Endast {{productName}} inställningar söks; Firefox inställningar ingår inte."

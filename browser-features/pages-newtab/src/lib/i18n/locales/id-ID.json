@@ -12,7 +12,7 @@
         "pin": "Pin",
         "unpin": "Unpin",
         "block": "Block",
-        "blockTitle": "Blokir \"{{title}}\"?",
+        "blockTitle": "Blokir \"{title}\"?",
         "blockConfirm": "Situs ini akan dihapus dari Situs Teratas dan tidak akan disarankan lagi. Anda dapat mengelola situs yang diblokir di pengaturan.",
         "invalidUrl": "URL tidak valid"
     },
